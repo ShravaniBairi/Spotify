@@ -1,0 +1,9 @@
+.FeedbackButton{
+    background-color: var(--color-black);
+    color: var(--color-primary);
+    text-align: center;
+    font-weight: bold;
+    padding:14px 4px;
+    
+
+}

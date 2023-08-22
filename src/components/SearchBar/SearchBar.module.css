@@ -1,0 +1,26 @@
+.button{
+    Width:66px;
+    Height:48px;
+    Top:13px;
+    Left:938px;
+    border-radius:0px 8px 8px 0px;
+    Border:1px solid var(--color-black);
+    background-color: var(--color-primary);
+    color:var(--color-black);
+    
+    
+}
+
+.inputBox{
+    Width:502px;
+    Height:48px;
+    Top:13px;
+    Left:436px;
+    border-radius:8px 0px 0px 8px;
+    Border:1px solid var(--color-black);
+    background-color: var(--color-white);
+    color:var(--color-black);
+   
+
+}
+

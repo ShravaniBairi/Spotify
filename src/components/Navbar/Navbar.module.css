@@ -1,5 +1,9 @@
 
 
 .wrapper{
-    background : var(--color-primary)
-}
+    background : var(--color-primary);
+    display : flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 10px;
+    }
