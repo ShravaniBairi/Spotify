@@ -2,8 +2,10 @@
 
 .wrapper{
     background : var(--color-primary);
+    height: 74px;
+    width: 100vw; 
+    padding: 0px 32px;
     display : flex;
-    flex-wrap: wrap;
+    align-items: center;
     justify-content: space-between;
-    padding: 10px;
     }

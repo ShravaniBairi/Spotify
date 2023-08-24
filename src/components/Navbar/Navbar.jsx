@@ -1,7 +1,7 @@
 import React from 'react';
 import Logo from "../Logo/Logo";
 import SearchBar from "../SearchBar/SearchBar";
-import FeedBackButton from "../FeedBackButton/FeedBackButton";
+import Button from "../Button/Button";
 import Styles from "./Navbar.module.css"
 
 
@@ -10,7 +10,7 @@ const Navbar = () => {
     <div className={Styles.wrapper}>
         <Logo />
         <SearchBar />
-        <FeedBackButton />
+        <Button children="Give Feedback"/>
     </div>
   )
 }

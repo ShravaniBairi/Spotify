@@ -3,9 +3,9 @@ import QtifyMainLogo from "../../assets/QtifyMainLogo.png";
 
 const Logo = () => {
   return (
-    <div>
-        <img src={QtifyMainLogo} alt="Qtify Logo" />
-    </div>
+    
+        <img src={QtifyMainLogo} alt="Qtify Logo" width={67} />
+   
   )
 }
 
